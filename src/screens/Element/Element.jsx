@@ -108,7 +108,7 @@ export const Element = () => {
                   <img className="ellipse" alt="Ellipse" src="./ellipse-2.png" />
                   <div className="frame-7">
                     <div className="text-wrapper-5">Dmitri Kisel</div>
-                    <div className="text-wrapper-6">Product Designer</div>
+                    <div className="text-wrapper-6">troll</div>
                   </div>
                 </div>
                 <div className="frame-6">
