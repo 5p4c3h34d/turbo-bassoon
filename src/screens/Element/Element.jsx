@@ -5,6 +5,12 @@ import { PropertyDefaultWrapper } from "../../components/PropertyDefaultWrapper"
 import "./style.css";
 
 export const Element = () => {
+  const ref = useRef(null);
+
+  const handleClick = () => {
+    ref.current?.scrollIntoView({ behavior: 'smooth' });
+  };
+
   return (
     <div className="element">
       <div className="element-x">
@@ -36,7 +42,7 @@ export const Element = () => {
               </div>
               <div className="shinrin">SHINRIN</div>
             </div>
-            <ContactUs className="contact-us-instance" property1="default" />
+            <ContactUs className="contact-us-instance" property1="default" onClick={handleClick} />
           </div>
           <div className="slogan">
             <h1 className="text-wrapper-3">We&#39;ve got your business covered, watch it soar</h1>
@@ -166,7 +172,7 @@ export const Element = () => {
         </div>
         <div className="contacts">
           <div className="frame-8">
-            <div className="text-wrapper-3">Contact us</div>
+            <div className="text-wrapper-3" ref={ref}>Contact us</div>
             <div className="frame-9">
               <div className="frame-10">
                 <div className="text-wrapper-7">Name</div>
