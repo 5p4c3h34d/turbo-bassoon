@@ -13,7 +13,9 @@
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.8.1"
+    "react-modal-image": "^2.6.0",
+    "react-router-dom": "^6.8.1",
+    "yet-another-react-lightbox": "^3.11.4"
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",

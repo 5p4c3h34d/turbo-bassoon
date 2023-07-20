@@ -16,7 +16,7 @@ export const PropertyDefaultWrapper = ({ property1, className, href }) => {
   return (
     <a
       className={`property-default-wrapper property-1-0-${state.property1} ${className}`}
-      href={href}
+      // href={href}
       rel="noopener noreferrer"
       target="_blank"
       onMouseEnter={() => {

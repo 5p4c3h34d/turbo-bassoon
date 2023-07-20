@@ -10,7 +10,7 @@ import "./style.css";
 
 export const Button = ({ property1, className, text = "MEET THE TEAM" }) => {
   const [state, dispatch] = useReducer(reducer, {
-    property1: property1 || "default",
+    property1: property1 || "defaÆult",
   });
 
   return (

@@ -1,6 +1,7 @@
 import React from "react";
 import { useRef } from 'react';
 import { Button } from "../../components/Button";
+import { Case } from "../../components/Case";
 import { ContactUs } from "../../components/ContactUs";
 import { PropertyDefaultWrapper } from "../../components/PropertyDefaultWrapper";
 import "./style.css";
@@ -67,7 +68,8 @@ export const Element = () => {
           <div className="frame">
             <div className="text-wrapper-3">Cases</div>
             <div className="frame-2">
-              <div className="frame-3">
+            <Case previeImageUrl="/img/image-1.png" imageUrl="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0783b681686773.5d0778c89e966.jpg"/>
+              {/* <div className="frame-3">
                 <div className="group-2">
                   <div className="rectangle-2" />
                   <div className="rectangle-3" />
@@ -77,16 +79,18 @@ export const Element = () => {
                   href="https://mir-s3-cdn-cf.behance.net/project_modules/1400/0783b681686773.5d0778c89e966.jpg"
                   property1="default"
                 />
-              </div>
-              <div className="frame-3">
+              </div> */}
+              <Case previeImageUrl="/img/image-3.png" imageUrl="https://mir-s3-cdn-cf.behance.net/project_modules/1400/965b3b81101087.5cf53e7053ef3.jpg"/>
+              {/* <div className="frame-3">
                 <img className="image" alt="Image" src="/img/image-3.png" />
                 <PropertyDefaultWrapper
                   className="button-instance"
                   href="https://mir-s3-cdn-cf.behance.net/project_modules/1400/965b3b81101087.5cf53e7053ef3.jpg"
                   property1="default"
                 />
-              </div>
-              <div className="frame-3">
+              </div> */}
+              <Case previeImageUrl="/img/image-6.png" imageUrl="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/4a056a81106407.5cf55b3c38a08.jpg"/>
+              {/* <div className="frame-3">
                 <div className="image-wrapper">
                   <img className="image-2" alt="Image" src="/img/image-6.png" />
                 </div>
@@ -95,7 +99,7 @@ export const Element = () => {
                   href="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/4a056a81106407.5cf55b3c38a08.jpg"
                   property1="default"
                 />
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
