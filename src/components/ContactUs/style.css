@@ -1,0 +1,26 @@
+.contact-us {
+  height: 28px;
+  position: relative;
+  width: 123px;
+}
+
+.contact-us .text-wrapper {
+  font-family: "Jura", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.contact-us .hover {
+  color: #ffffff;
+}
+
+.contact-us .default {
+  color: #6fd8b3;
+}

@@ -1,0 +1,479 @@
+.element {
+  background-color: #2e2e2e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .element-x {
+  background-color: #2e2e2e;
+  border: 1px none;
+  height: 3129px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.element .overlap {
+  height: 1733px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1934px;
+}
+
+.element .sean-pollock {
+  height: 1104px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.element .overlay {
+  background-color: #2e2e2e;
+  height: 823px;
+  left: 0;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  width: 1934px;
+}
+
+.element .tags {
+  background-color: #242424cc;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 723px;
+  width: 1934px;
+}
+
+.element .div {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 102px;
+  left: 102px;
+  position: relative;
+  top: 34px;
+}
+
+.element .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Karla", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .menu {
+  background-color: #242424cc;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1934px;
+}
+
+.element .logo {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  left: 92px;
+  position: absolute;
+  top: 16px;
+}
+
+.element .group {
+  height: 60.03px;
+  position: relative;
+  width: 73.55px;
+}
+
+.element .overlap-group {
+  height: 41px;
+  left: 10px;
+  position: relative;
+  top: 10px;
+  width: 55px;
+}
+
+.element .subtract {
+  height: 39px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.element .img {
+  height: 39px;
+  left: 6px;
+  position: absolute;
+  top: 2px;
+  width: 49px;
+}
+
+.element .shinrin {
+  color: #ffffff;
+  font-family: "Jura", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .contact-us-instance {
+  left: 1698px !important;
+  position: absolute !important;
+  top: 36px !important;
+}
+
+.element .slogan {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 101px;
+  position: absolute;
+  top: 362px;
+}
+
+.element .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Jura", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .button-instance {
+  flex: 0 0 auto !important;
+}
+
+.element .logos {
+  background-color: #70d9b3;
+  height: 178px;
+  left: 0;
+  position: absolute;
+  top: 823px;
+  width: 1934px;
+}
+
+.element .logos-2 {
+  height: 124px;
+  left: 102px;
+  position: relative;
+  top: 27px;
+  width: 1719px;
+}
+
+.element .logo-2 {
+  height: 38px;
+  left: 1314px;
+  position: absolute;
+  top: 43px;
+  width: 158px;
+}
+
+.element .retailer-logo {
+  height: 51px;
+  left: 248px;
+  position: absolute;
+  top: 36px;
+  width: 199px;
+}
+
+.element .yandex-logo {
+  height: 35px;
+  left: 1574px;
+  position: absolute;
+  top: 44px;
+  width: 145px;
+}
+
+.element .chainstack-logo-text {
+  height: 124px;
+  left: 890px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 342px;
+}
+
+.element .ozon-logo-clear {
+  height: 32px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 146px;
+}
+
+.element .RNG-BIG {
+  height: 47px;
+  left: 569px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 219px;
+}
+
+.element .rectangle {
+  background-color: #2e2e2e;
+  height: 732px;
+  left: 0;
+  position: absolute;
+  top: 1001px;
+  width: 1934px;
+}
+
+.element .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 60px;
+  left: 102px;
+  position: absolute;
+  top: 1075px;
+}
+
+.element .frame-2 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 78px;
+  position: relative;
+}
+
+.element .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.element .group-2 {
+  background-image: url(../../../static/img/image-1.png);
+  background-size: 100% 100%;
+  height: 346.19px;
+  position: relative;
+  width: 520.58px;
+}
+
+.element .rectangle-2 {
+  background-color: #434a54;
+  height: 54px;
+  left: 340px;
+  position: absolute;
+  top: 277px;
+  width: 170px;
+}
+
+.element .rectangle-3 {
+  background-color: #434a54;
+  height: 54px;
+  left: 12px;
+  position: absolute;
+  top: 19px;
+  width: 170px;
+}
+
+.element .image {
+  height: 346px;
+  position: relative;
+  width: 520px;
+}
+
+.element .image-wrapper {
+  background-color: #3d4140;
+  height: 346.68px;
+  position: relative;
+  width: 521.33px;
+}
+
+.element .image-2 {
+  height: 347px;
+  left: 31px;
+  position: absolute;
+  top: 0;
+  width: 459px;
+}
+
+.element .overlap-2 {
+  height: 715px;
+  left: 0;
+  position: absolute;
+  top: 1733px;
+  width: 1934px;
+}
+
+.element .team {
+  background-color: #131313;
+  height: 715px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1934px;
+}
+
+.element .frame-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 100px;
+  left: 99px;
+  position: relative;
+  top: 74px;
+}
+
+.element .text-wrapper-4 {
+  color: #70d9b3;
+  font-family: "Jura", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 234px;
+  justify-content: center;
+  position: relative;
+  width: 1718px;
+}
+
+.element .frame-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 49px;
+  position: relative;
+}
+
+.element .ellipse {
+  height: 254px;
+  object-fit: cover;
+  position: relative;
+  width: 254px;
+}
+
+.element .frame-7 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.element .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Karla", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .text-wrapper-6 {
+  color: #70d9b3;
+  font-family: "Karla", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .contacts {
+  background-color: #2e2e2e;
+  height: 681px;
+  left: 0;
+  position: absolute;
+  top: 2448px;
+  width: 1920px;
+}
+
+.element .frame-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 100px;
+  left: 100px;
+  position: relative;
+  top: 74px;
+}
+
+.element .frame-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 49px;
+  position: relative;
+}
+
+.element .frame-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  position: relative;
+}
+
+.element .text-wrapper-7 {
+  color: #70d9b3;
+  font-family: "Karla", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.element .line {
+  height: 1px;
+  object-fit: cover;
+  position: relative;
+  width: 802px;
+}

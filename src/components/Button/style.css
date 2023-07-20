@@ -1,0 +1,34 @@
+.button {
+  align-items: center;
+  background-color: #70d9b3;
+  border-radius: 4px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 17px 14px;
+  position: relative;
+  width: 272px;
+}
+
+.button .MEET-the-team {
+  font-family: "Karla", Helvetica;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button .property-1-hover {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.button .property-1-default {
+  color: #2e2e2e;
+  font-weight: 400;
+}
