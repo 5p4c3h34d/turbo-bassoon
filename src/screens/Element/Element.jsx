@@ -92,7 +92,7 @@ export const Element = () => {
             </div>
           </div>
         </div>
-        <div className="overlap-2">
+        <div className="team">
           <div className="team">
             <div className="frame-4">
               <div className="text-wrapper-4">Meet the team</div>
@@ -109,41 +109,6 @@ export const Element = () => {
                   <div className="frame-7">
                     <div className="text-wrapper-5">Dmitri Kisel</div>
                     <div className="text-wrapper-6">troll</div>
-                  </div>
-                </div>
-                <div className="frame-6">
-                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
-                  <div className="frame-7">
-                    <div className="text-wrapper-5">Roman Geintz</div>
-                    <div className="text-wrapper-6">Product Designer</div>
-                  </div>
-                </div>
-                <div className="frame-6">
-                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
-                  <div className="frame-7">
-                    <div className="text-wrapper-5">Andrey Pleshakov</div>
-                    <div className="text-wrapper-6">Product Designer</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="team">
-            <div className="frame-4">
-              <div className="text-wrapper-4">Meet the team</div>
-              <div className="frame-5">
-                <div className="frame-6">
-                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
-                  <div className="frame-7">
-                    <div className="text-wrapper-5">Marina Matsapulina</div>
-                    <div className="text-wrapper-6">Product Designer</div>
-                  </div>
-                </div>
-                <div className="frame-6">
-                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
-                  <div className="frame-7">
-                    <div className="text-wrapper-5">Dmitri Kisel</div>
-                    <div className="text-wrapper-6">Product Designer</div>
                   </div>
                 </div>
                 <div className="frame-6">
