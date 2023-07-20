@@ -43,7 +43,7 @@ export const Element = () => {
               </div>
               <div className="shinrin">SHINRIN</div>
             </div>
-            <ContactUs className="contact-us-instance" property1="default" onClick={handleClick} />
+            <div onClick={handleClick}><ContactUs className="contact-us-instance" property1="default" /></div>
           </div>
           <div className="slogan">
             <h1 className="text-wrapper-3">We&#39;ve got your business covered, watch it soar</h1>
