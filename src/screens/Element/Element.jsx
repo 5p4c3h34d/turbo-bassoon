@@ -30,7 +30,7 @@ export const Element = () => {
             <div className="logo">
               <div className="group">
                 <div className="overlap-group">
-                  <img className="subtract" alt="Subtract" src="/img/subtract-1.svg" />
+                  <img className="subtract" alt="Subtract" src="/src/img/subtract-1.svg" />
                   <img className="img" alt="Subtract" src="/img/subtract.svg" />
                 </div>
               </div>
