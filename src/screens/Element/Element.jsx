@@ -30,7 +30,7 @@ export const Element = () => {
             <div className="logo">
               <div className="group">
                 <div className="overlap-group">
-                  <img className="subtract" alt="Subtract" src="./subtract-1.svg" />
+                  <img className="subtract" alt="Subtract" src="/img/subtract-1.svg" />
                   <img className="img" alt="Subtract" src="/img/subtract.svg" />
                 </div>
               </div>
@@ -92,27 +92,62 @@ export const Element = () => {
             </div>
           </div>
         </div>
-        <div className="team">
+        <div className="overlap-2">
           <div className="team">
             <div className="frame-4">
               <div className="text-wrapper-4">Meet the team</div>
               <div className="frame-5">
                 <div className="frame-6">
-                  <img className="ellipse" alt="Ellipse" src="/ellipse-2.png" />
+                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
                   <div className="frame-7">
                     <div className="text-wrapper-5">Marina Matsapulina</div>
                     <div className="text-wrapper-6">Product Designer</div>
                   </div>
                 </div>
                 <div className="frame-6">
-                  <img className="ellipse" alt="Ellipse" src="./ellipse-2.png" />
+                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
                   <div className="frame-7">
                     <div className="text-wrapper-5">Dmitri Kisel</div>
-                    <div className="text-wrapper-6">troll</div>
+                    <div className="text-wrapper-6">Product Designer</div>
                   </div>
                 </div>
                 <div className="frame-6">
                   <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
+                  <div className="frame-7">
+                    <div className="text-wrapper-5">Roman Geintz</div>
+                    <div className="text-wrapper-6">Product Designer</div>
+                  </div>
+                </div>
+                <div className="frame-6">
+                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
+                  <div className="frame-7">
+                    <div className="text-wrapper-5">Andrey Pleshakov</div>
+                    <div className="text-wrapper-6">Product Designer</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="team">
+            <div className="frame-4">
+              <div className="text-wrapper-4">Meet the team</div>
+              <div className="frame-5">
+                <div className="frame-6">
+                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
+                  <div className="frame-7">
+                    <div className="text-wrapper-5">Marina Matsapulina</div>
+                    <div className="text-wrapper-6">Product Designer</div>
+                  </div>
+                </div>
+                <div className="frame-6">
+                  <img className="ellipse" alt="Ellipse" src="../../../static/img/ellipse-2.png" />
+                  <div className="frame-7">
+                    <div className="text-wrapper-5">Dmitri Kisel</div>
+                    <div className="text-wrapper-6">Troll</div>
+                  </div>
+                </div>
+                <div className="frame-6">
+                  <img className="ellipse" alt="Ellipse" src="/../../../static/img/ellipse-2.png" />
                   <div className="frame-7">
                     <div className="text-wrapper-5">Roman Geintz</div>
                     <div className="text-wrapper-6">Product Designer</div>
