@@ -140,14 +140,14 @@ export const Element = () => {
                   </div>
                 </div>
                 <div className="frame-6">
-                  <img className="ellipse" alt="Ellipse" src="../../../static/img/ellipse-2.png" />
+                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
                   <div className="frame-7">
                     <div className="text-wrapper-5">Dmitri Kisel</div>
                     <div className="text-wrapper-6">Troll</div>
                   </div>
                 </div>
                 <div className="frame-6">
-                  <img className="ellipse" alt="Ellipse" src="/../../../static/img/ellipse-2.png" />
+                  <img className="ellipse" alt="Ellipse" src="/img/ellipse-2.png" />
                   <div className="frame-7">
                     <div className="text-wrapper-5">Roman Geintz</div>
                     <div className="text-wrapper-6">Product Designer</div>
